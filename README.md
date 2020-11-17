@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jen's github stats](https://github-readme-stats.vercel.app/api?username=spaceWitch97)](https://github.com/spaceWitch97/github-readme-stats)
+[![Jen's github stats](https://github-readme-stats.vercel.app/api?username=spaceWitch97&?theme=midnight-purple)](https://github.com/spaceWitch97/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceWitch97)](https://github.com/spaceWitch97/github-readme-stats)
 
