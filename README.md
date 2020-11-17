@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jen's github stats](https://github-readme-stats.vercel.app/api?username=spaceWitch97)](https://github.com/spaceWitch97/github-readme-stats)
+
+
 <!--
 **spaceWitch97/spaceWitch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
