@@ -1,10 +1,13 @@
-### Hi there 👋
+### Olá!! 👋
+
 
 [![Jen's github stats](https://github-readme-stats.vercel.app/api?username=spaceWitch97&theme=midnight-purple)](https://github.com/spaceWitch97/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceWitch97)](https://github.com/spaceWitch97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceWitch97&theme=midnight-purple)](https://github.com/spaceWitch97/github-readme-stats)
 
 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/bruxa_espacial?label=Me%20siga%21&style=social)
 
 <!--
 **spaceWitch97/spaceWitch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
