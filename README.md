@@ -2,26 +2,20 @@
 
 O meu nome é Jenifer, tenho 23 anos e estudo Análise de Sistemas na FAETERJ-Rio (2º Período). 
 
+😄 **Pronomes**: ela/dela/a
 
-## Áreas de Interesse
+
+## 🔭 Áreas de Interesse
 
  - Segurança de Informação
  - Back-End Developer
 
 
-## O que eu estou estudando:
+## 🌱 O que eu estou estudando:
 
  - Programação (C e Python)
  - Redes de Computadores
  - Inglês (Intermediário) e Chinês (Iniciante)
-
-
-## Onde me encontrar:
-
- - [Twitter](https://twitter.com/bruxa_espacial)
- - [LinkedIn](https://www.linkedin.com/in/jen-angelo/)
- - [Instagram](https://www.instagram.com/bruxa_espacial/)
-
 
 
 <!--
@@ -40,3 +34,10 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceWitch97&theme=midnight-purple)](https://github.com/spaceWitch97/github-readme-stats)
+
+## 📫 Onde me encontrar:
+
+ - [Twitter](https://twitter.com/bruxa_espacial)
+ - [LinkedIn](https://www.linkedin.com/in/jen-angelo/)
+ - [Instagram](https://www.instagram.com/bruxa_espacial/)
+
