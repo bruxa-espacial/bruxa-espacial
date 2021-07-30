@@ -19,7 +19,7 @@ O meu nome é Jenifer, tenho 23 anos e estudo Análise de Sistemas na FAETERJ-Ri
 
 
 <!--
-**spaceWitch97/spaceWitch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**spaceWitch97/bruxa-espacial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceWitch97&theme=midnight-purple)](https://github.com/spaceWitch97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=midnight-purple)](https://github.com/bruxa-espacial/github-readme-stats)
 
 ## 📫 Onde me encontrar:
 
