@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=midnight-purple)](https://github.com/bruxa-espacial/github-readme-stats)
-[![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruxa-espacial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave)](https://github.com/bruxa-espacial/github-readme-stats)
+
+[![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruxa-espacial&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Onde me encontrar:
 
