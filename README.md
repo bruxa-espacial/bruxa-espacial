@@ -15,7 +15,7 @@ O meu nome é Jenifer, tenho 24 anos e estudo Análise de Sistemas na FAETERJ-Ri
 
  - Programação (C e Python)
  - Redes de Computadores
- - Inglês (Intermediário) e Japonês (Iniciante)
+ - Inglês (Intermediário) e Espanhol (Iniciante)
 
 
 <!--
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![bruxa-espacial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c75fe7d8-b8bc-4f47-93fd-864654d618dd)](https://github.com/bruxa-espacial/github-readme-stats)
 
 [![Linguagens mais usadas por aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave&layout=compact)](https://github.com/bruxa-espacial/github-readme-stats)
 
