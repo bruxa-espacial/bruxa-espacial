@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![bruxa-espacial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c75fe7d8-b8bc-4f47-93fd-864654d618dd)](https://github.com/bruxa-espacial/github-readme-stats)
+[![bruxa-espacial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruxa_espacial)](https://github.com/bruxa-espacial/github-readme-stats)
 
 [![Linguagens mais usadas por aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave&layout=compact)](https://github.com/bruxa-espacial/github-readme-stats)
 
