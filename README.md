@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![bruxa-espacial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruxa_espacial)](https://github.com/bruxa-espacial/github-readme-stats)
+[![Minhas estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bruxa_espacial)](https://github.com/bruxa-espacial/github-readme-stats)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave&layout=compact)](https://github.com/bruxa-espacial/github-readme-stats)
+[![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bruxa-espacial&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruxa-espacial)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Jenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruxa-espacial&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave&layout=compact)](https://github.com/bruxa-espacial/github-readme-stats)
 
 ## 📫 Onde me encontrar:
 
