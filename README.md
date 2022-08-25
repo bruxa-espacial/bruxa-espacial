@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
  - [Twitter](https://twitter.com/bruxa_espacial)
  - [LinkedIn](https://www.linkedin.com/in/jen-angelo/)
- - [Instagram](https://www.instagram.com/bruxa_espacial/)
+ - [WakaTime](https://wakatime.com/@bruxa_espacial)
 
