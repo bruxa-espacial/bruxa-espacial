@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 
 [![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=synthwave&layout=compact)](https://github.com/bruxa-espacial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Onde me encontrar:
 
