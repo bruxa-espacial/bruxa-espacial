@@ -13,7 +13,7 @@ O meu nome é Jenifer, tenho 24 anos e estudo Análise de Sistemas na FAETERJ-Ri
 
 ## 🌱 O que eu estou estudando:
 
- - Programação (C e Python)
+ - Programação (C, PHP e Python)
  - Redes de Computadores
  - Inglês (Intermediário) e Espanhol (Iniciante)
 
