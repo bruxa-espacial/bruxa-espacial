@@ -1,6 +1,6 @@
 # Olá, Mundo!! 
 
-O meu nome é Jenifer, tenho 24 anos e estudo Análise de Sistemas na FAETERJ-Rio (2º Período). 
+O meu nome é Jenifer, tenho 25 anos e estudo Análise de Sistemas na FAETERJ-Rio (2º Período). 
 
 😄 **Pronomes**: ela/dela/a
 
