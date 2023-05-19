@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&layout=compact&theme=synthwave&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
