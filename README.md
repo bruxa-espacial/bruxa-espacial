@@ -2,6 +2,7 @@
 
 O meu nome é Jenifer, tenho 25 anos e estudo Análise de Sistemas na FAETERJ-Rio (2º Período). 
 
+
 😄 **Pronomes**: ela/dela/a
 
 
@@ -13,28 +14,15 @@ O meu nome é Jenifer, tenho 25 anos e estudo Análise de Sistemas na FAETERJ-Ri
 
 ## 🌱 O que eu estou estudando:
 
- - Programação (C, PHP e Python)
+ - Programação (C, PHP e Java)
  - Redes de Computadores
  - Inglês (Intermediário) e Espanhol (Iniciante)
 
+---
 
-<!--
-**spaceWitch97/bruxa-espacial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruxa-espacial&show_icons=true&theme=midnight-purple)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&layout=compact&theme=synthwave&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=midnight-purple&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Onde me encontrar:
