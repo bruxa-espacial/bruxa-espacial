@@ -13,6 +13,6 @@ O meu nome é Jenifer, tenho 26 anos e estudo Ciências da Computação na Facul
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bruxa-espacial&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxa-espacial&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
